@@ -22,7 +22,7 @@ class _Example3State extends State<Example3>
     final width = MediaQuery.of(context).size.width;
     return Scaffold(
       appBar: AppBar(
-        title: Text('Example 3'),
+        title: Text('example 3'),
       ),
       body: Stack(
         children: [

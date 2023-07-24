@@ -15,7 +15,7 @@ class Example5_State extends State<Example5>
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Example 5'),
+        title: Text('example 5'),
       ),
       body: Center(
         child: TweenAnimationBuilder(

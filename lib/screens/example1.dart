@@ -30,7 +30,7 @@ class _Example1State extends State<Example1>
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Exapmle 1'),
+        title: Text('exapmle 1'),
       ),
       body: AnimatedBuilder(
         animation: controller,

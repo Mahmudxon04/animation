@@ -24,7 +24,7 @@ class _Example1State extends State<Example2>
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Exapmle 2'),
+        title: Text('exapmle 2'),
       ),
       body: Center(
         child: AnimatedContainer(

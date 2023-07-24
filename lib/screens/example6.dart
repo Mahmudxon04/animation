@@ -32,7 +32,7 @@ class _Example6State extends State<Example6>
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Example 6'),
+        title: Text('example 6'),
       ),
       floatingActionButton: FloatingActionButton(
           onPressed: () {
